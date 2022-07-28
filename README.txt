@@ -1,3 +1,6 @@
+Algorithm & Experiment code for the paper:
+Yang, L & van Leeuwen, M Truly Unordered Probabilistic Rule Sets for Multi-class Classification. In: Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD 2022), Springer, 2022.
+
 All packages required are in requirement.txt. I use Python 3.8.10 for developing all TURS code. 
 
 To get the AUC of TURS (for Experiment 1), and Rule lengths and Number of Rules (for Experiment 3), 
