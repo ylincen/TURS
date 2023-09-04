@@ -1,3 +1,6 @@
+[Updated 2023-Sep-04] Here is a refined version of our code: https://github.com/ylincen/TURS2 ;
+
+
 Algorithm & Experiment code for the paper:
 Yang, L & van Leeuwen, M Truly Unordered Probabilistic Rule Sets for Multi-class Classification. In: Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD 2022), Springer, 2022.
 
