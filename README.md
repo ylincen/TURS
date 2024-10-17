@@ -1,4 +1,4 @@
-## Updates
+# Updates
 **Update 2023-Sep-04** Here is a refined version of our code: https://github.com/ylincen/TURS2 ;
 
 **Update 2024-Jan-30** Check out our new "Arxiv journal version" of the paper: https://arxiv.org/abs/2401.09918v1 ;
